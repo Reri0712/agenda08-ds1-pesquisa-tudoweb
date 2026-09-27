@@ -2,7 +2,7 @@
 
 **Curso:** Técnico em Desenvolvimento de Sistemas (EAD) — Centro Paula Souza  
 **Disciplina:** Desenvolvimento de Sistemas I  
-**Autor:** Renato Hiroshi Sato  
+**Autor:** Renato  
 
 ---
 
