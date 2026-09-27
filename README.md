@@ -10,19 +10,19 @@
 Atividade prática desenvolvida para simular a recolha de dados de uma pesquisa de opinião para a empresa de marketing **TudoWeb**. 
 
 O programa utiliza:
-- Estrutura de repetição contada (`for` / `range`) para percorrer a quantidade de entrevistados[cite: 1, 2].
-- Estruturas de validação de dados (`while`) para garantir a inserção de dados válidos de idade e opinião[cite: 1, 2].
-- Estruturas de decisão (`if`/`elif`/`else`) para contabilizar a classificação do atendimento[cite: 2].
+- Estrutura de repetição contada (`for` / `range`) para percorrer a quantidade de entrevistados.
+- Estruturas de validação de dados (`while`) para garantir a inserção de dados válidos de idade e opinião.
+- Estruturas de decisão (`if`/`elif`/`else`) para contabilizar a classificação do atendimento.
 
 ---
 
 ## 🎯 Requisitos da Atividade
-1. Solicitar **nome**, **idade** e **opinião** (1: EXCELENTE, 2: BOM, 3: RUIM)[cite: 2].
-2. Processar a pesquisa com **50 entrevistados**[cite: 2].
-3. Exibir no final[cite: 2]:
-   - Quantidade de respostas **EXCELENTE**[cite: 2]
-   - Quantidade de respostas **RUIM**[cite: 2]
-4. Testes validados com **10 entrevistados**[cite: 2].
+1. Solicitar **nome**, **idade** e **opinião** (1: EXCELENTE, 2: BOM, 3: RUIM).
+2. Processar a pesquisa com **50 entrevistados**.
+3. Exibir no final:
+   - Quantidade de respostas **EXCELENTE**
+   - Quantidade de respostas **RUIM**
+4. Testes validados com **10 entrevistados**.
 
 ---
 
